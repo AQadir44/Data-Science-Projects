@@ -2,4 +2,4 @@
 
 #Simple Projects (Beginners Project)
 
-[file](./Simple Project/ds_wordcloud.png)
+![OPEN WEB](Simple Project/ds_wordcloud.png)
